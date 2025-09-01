@@ -5,9 +5,7 @@
 @import url(../blocks/reservation.css);
 @import url(../blocks/menu.css);
 @import url(../blocks/card.css);
-
-
-.form {
-  margin: 0 auto;
-  color: #000;
-}
+@import Url(../blocks/about.css);
+@import url(../blocks/footer.css);
+@import url(../blocks/form.css);
+@import url(../blocks/recipes.css);

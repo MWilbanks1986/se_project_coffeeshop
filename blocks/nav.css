@@ -19,6 +19,8 @@ font-style: normal;
 font-weight: 500;
 font-size: 16px;
 line-height: 20px;
+transition: opacity 0.5s;
+cursor: pointer;
 }
 
 .nav__logo {
@@ -26,4 +28,8 @@ line-height: 20px;
   height:39px;
   position: relative;
   left: -50px;
+}
+
+.nav__link:hover {
+  opacity: 0.5;
 }
